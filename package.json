@@ -1,0 +1,19 @@
+{
+  "name": "testdeploy",
+  "version": "1.0.0",
+  "description": "this is a basic node app for deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
